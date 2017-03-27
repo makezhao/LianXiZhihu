@@ -3,7 +3,7 @@
 
 效果图一
 
-![效果图 (1).png](I:/github2/LianXiZhihu/image/效果图 (1).png)
+ ![image](https://github.com/makezhao/LianXiZhihu/blob/master/image/效果图%20(1).png)
 
 
 效果图二
