@@ -8,12 +8,12 @@
 
 效果图二
 
-![效果图 (2).png](I:/github2/LianXiZhihu/image/效果图 (2).png)
+ ![image](https://github.com/makezhao/LianXiZhihu/blob/master/image/效果图%20(2).png)
 
 效果图三
 
-![效果图 (3).png](I:/github2/LianXiZhihu/image/效果图 (3).png)
+ ![image](https://github.com/makezhao/LianXiZhihu/blob/master/image/效果图%20(3).png)
 
 效果图四
 
-![效果图 (4).png](I:/github2/LianXiZhihu/image/效果图 (4).png)
+ ![image](https://github.com/makezhao/LianXiZhihu/blob/master/image/效果图%20(4).png)
